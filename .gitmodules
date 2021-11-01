@@ -1,0 +1,3 @@
+[submodule "Rails/tweet_app"]
+	path = Rails/tweet_app
+	url = https://github.com/Romu1273x/tweet_app.git
